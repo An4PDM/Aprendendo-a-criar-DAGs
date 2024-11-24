@@ -8,4 +8,5 @@
   <li>[x] EmailOperator </li>
   <li>[ ] BashOperator </li>
   <li>[x] DummyOperator </li>
+  <li>[x] ExternalTaskSensor </li>
 </ul>
