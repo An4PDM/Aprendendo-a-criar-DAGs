@@ -8,4 +8,5 @@
   <li>[x] EmailOperator </li>
   <li>[x] DummyOperator </li>
   <li>[x] ExternalTaskSensor </li>
+  <li>[x] Xcoms </li>
 </ul>
